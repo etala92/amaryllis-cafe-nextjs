@@ -1,0 +1,28 @@
+.container {
+  position: relative;
+  --header-height: 80dvh;
+  --header-min-height: 4rem;
+  font-size: 1.2rem;
+}
+
+@media (max-width: 650px) {
+  .container {
+    font-size: 1rem;
+  }
+}
+
+.header {
+  height: var(--header-height);
+  position: sticky;
+  top: calc(var(--header-min-height) - var(--header-height));
+  z-index: 10;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.main {
+}
+
+.footer {
+  /* height: 100px; */
+  border-top: 1px solid #eaeaea;
+}

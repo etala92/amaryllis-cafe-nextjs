@@ -1,0 +1,387 @@
+[
+  {
+    "itemName": "Caffè espresso",
+    "itemPrice": "1,20 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Correzione con liquori",
+    "itemPrice": "1,60 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Caffè decaffeinato",
+    "itemPrice": "1,30 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Caffè freddo shakerato",
+    "itemPrice": "2,50 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Caffè ginseng tazza piccola",
+    "itemPrice": "1,50 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Caffè ginseng tazza grande",
+    "itemPrice": "1,70 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Caffè marocchino",
+    "itemPrice": "1,40 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Caffè americano",
+    "itemPrice": "1,30 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Cappuccino",
+    "itemPrice": "1,70 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Cappuccino di soia",
+    "itemPrice": "1,80 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Cappuccino ginseng",
+    "itemPrice": "1,80 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Cioccolata",
+    "itemPrice": "2,50 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Cioccolata con panna",
+    "itemPrice": "3,00 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Latte bianco",
+    "itemPrice": "1,30 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Latte macchiato",
+    "itemPrice": "1,80 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Orzo espresso",
+    "itemPrice": "1,40 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Orzo in tazza grande",
+    "itemPrice": "1,70 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Cappuccino d'orzo",
+    "itemPrice": "1,60 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Tè, camomilla, infuso in teiera",
+    "itemPrice": "2,00 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Spremuta di arancia",
+    "itemPrice": "2,50 €",
+    "itemGroup": "Caffetteria"
+  },
+  {
+    "itemName": "Brioches",
+    "itemPrice": "1,30 €",
+    "itemGroup": "Dolci"
+  },
+  {
+    "itemName": "Brioches piccola",
+    "itemPrice": "1,00 €",
+    "itemGroup": "Dolci"
+  },
+  {
+    "itemName": "Ciambella",
+    "itemPrice": "1,80 €",
+    "itemGroup": "Dolci"
+  },
+  {
+    "itemName": "Biscotti piccoli",
+    "itemPrice": "0,80 €",
+    "itemGroup": "Dolci"
+  },
+  {
+    "itemName": "Biscotto grande",
+    "itemPrice": "1,50 €",
+    "itemGroup": "Dolci"
+  },
+  {
+    "itemName": "Bombolone",
+    "itemPrice": "2,00 €",
+    "itemGroup": "Dolci"
+  },
+  {
+    "itemName": "Ciambella mini",
+    "itemPrice": "1,40 €",
+    "itemGroup": "Dolci"
+  },
+  {
+    "itemName": "Fetta di torta",
+    "itemPrice": "2,00 €",
+    "itemGroup": "Dolci"
+  },
+  {
+    "itemName": "Toast",
+    "itemPrice": "3,50 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Pizza",
+    "itemPrice": "2,50 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Focaccia vuota",
+    "itemPrice": "2,00 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Focaccia ripiena",
+    "itemPrice": "2,80 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Panino piccolo",
+    "itemPrice": "2,00 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Panini classici (crudo, cotto, coppa, speck e salame + formaggio)",
+    "itemPrice": "4,00 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Panino farcito",
+    "itemPrice": "5,00 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Piadine classiche (cotto, crudo, speck, coppa e salame + formaggio)",
+    "itemPrice": "4,50 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Piadina farcita",
+    "itemPrice": "5,00 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Tramezzini con affettati con aggiunta formaggi e salse",
+    "itemPrice": "3,50 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Primi piatti",
+    "itemPrice": "6,50 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Secondi piatti",
+    "itemPrice": "7,20 €",
+    "itemGroup": "Snack"
+  },
+  {
+    "itemName": "Gutturnio rosso frizzante",
+    "itemPrice": "15,00 €",
+    "itemGroup": "Vini (bottiglia)"
+  },
+  {
+    "itemName": "Ortugo bianco frizzante",
+    "itemPrice": "15,00 €",
+    "itemGroup": "Vini (bottiglia)"
+  },
+  {
+    "itemName": "Eleonora Giorgi: Pinot Nero in purezza",
+    "itemPrice": "15,00 €",
+    "itemGroup": "Vini (bottiglia)"
+  },
+  {
+    "itemName": "Il Bandito: bianco fermo",
+    "itemPrice": "18,00 €",
+    "itemGroup": "Vini (bottiglia)"
+  },
+  {
+    "itemName": "La Diana: Pinot Grigio",
+    "itemPrice": "16,00 €",
+    "itemGroup": "Vini (bottiglia)"
+  },
+  {
+    "itemName": "Vigalon rosso fermo",
+    "itemPrice": "15,00 €",
+    "itemGroup": "Vini (bottiglia)"
+  },
+  {
+    "itemName": "Spritz",
+    "itemPrice": "6,00 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Americano",
+    "itemPrice": "6,50 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Negroni",
+    "itemPrice": "7,00 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Gin tonic",
+    "itemPrice": "8,00 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Campari",
+    "itemPrice": "4,00 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Amari/liquori",
+    "itemPrice": "3,20 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Prosecco",
+    "itemPrice": "3,50 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Vino bianco",
+    "itemPrice": "3,20 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Vino rosso",
+    "itemPrice": "3,20 €",
+    "itemGroup": "Cocktails & Spirits"
+  },
+  {
+    "itemName": "Acqua minerale bicchiere",
+    "itemPrice": "0,50 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Acqua in bottiglia 0,5 l",
+    "itemPrice": "1,00 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Acqua in bottoglia 1,5 l",
+    "itemPrice": "2,00 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Bibite in lattina",
+    "itemPrice": "3,00 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Red Bull",
+    "itemPrice": "3,50 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Estathé brick",
+    "itemPrice": "1,50 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Estathé bottiglietta",
+    "itemPrice": "3,50 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Succo di frutta 200 ml",
+    "itemPrice": "2,50 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Birra 33cl",
+    "itemPrice": "3,50 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Birra 66cl",
+    "itemPrice": "5,00 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Crodino/Sanbitter",
+    "itemPrice": "3,50 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Crodino twist",
+    "itemPrice": "3,70 €",
+    "itemGroup": "Bibite"
+  },
+  {
+    "itemName": "Barrette novi",
+    "itemPrice": "1,80 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Big Bubble",
+    "itemPrice": "1,70 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Caramelle Frisk",
+    "itemPrice": "1,00 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Chupa Chups",
+    "itemPrice": "0,60 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Cicche astuccio",
+    "itemPrice": "1,50 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Cicche stick",
+    "itemPrice": "1,50 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Goleador",
+    "itemPrice": "0,50 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Kinder Bueno",
+    "itemPrice": "1,70 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Kinder Cards",
+    "itemPrice": "1,00 €",
+    "itemGroup": "Snack dolci"
+  },
+  {
+    "itemName": "Ovetto Kinder",
+    "itemPrice": "1,50 €",
+    "itemGroup": "Snack dolci"
+  }
+]

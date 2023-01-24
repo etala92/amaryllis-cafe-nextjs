@@ -1,23 +1,33 @@
-import Head from 'next/head'
-import Header from '@components/Header'
-import Footer from '@components/Footer'
+import PriceList, { type PriceListItems } from "@components/PriceList";
+import PriceListItem from "@components/PriceListItem";
+import priceListItems from "@data/pricelist.json";
 
-export default function Home() {
+export default function Home({
+  priceListItems,
+}: {
+  priceListItems: PriceListItems;
+}) {
+  const groupList = [
+    ...new Set(priceListItems.map((priceListItem) => priceListItem.itemGroup)),
+  ];
   return (
-    <div className="container">
-      <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
+    <>
+      {groupList.map((groupName) => (
+        <PriceList
+          key={groupName}
+          groupName={groupName}
+          priceListItems={priceListItems.filter(
+            (item) => item.itemGroup === groupName
+          )}
+        />
+      ))}
+    </>
+  );
+}
 
-      <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-      </main>
-
-      <Footer />
-    </div>
-  )
+// Fetching data from the JSON file
+export async function getStaticProps() {
+  return {
+    props: { priceListItems },
+  };
 }

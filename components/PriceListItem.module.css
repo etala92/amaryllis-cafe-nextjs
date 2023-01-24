@@ -1,0 +1,28 @@
+.item {
+  display: grid;
+  grid-template-columns: auto max-content;
+  align-items: end;
+}
+
+.price {
+  text-align: right;
+  padding-left: 0.25ch;
+}
+
+.name {
+  position: relative;
+  overflow: hidden;
+}
+
+.leaders::after {
+  position: absolute;
+  padding-left: 0.25ch;
+  content: " . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . "
+    ". . . . . . . . . . . . . . . . . . . . . . . ";
+  text-align: right;
+}
