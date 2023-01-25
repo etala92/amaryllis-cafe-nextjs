@@ -1,5 +1,5 @@
 import Image from "next/image";
-import imgHead from "../public/marijke-van-den-krommenacker-zxqx5hTUpuc-unsplash.jpg";
+import imgHeader from "../public/header.jpg";
 import { Courgette } from "@next/font/google";
 import { useInView } from "react-intersection-observer";
 import style from "@components/Header.module.css";
@@ -30,7 +30,7 @@ export default function Header({ children, className }: Props) {
         ref={ref}
       >
         <div className={style.bgImg}>
-          <Image src={imgHead} alt="Immagine di un amaryllis" priority fill />
+          <Image src={imgHeader} alt="Immagine di un amaryllis" priority fill />
         </div>
         <h1 className={`${style.title} ${courgette.className}`}>{children}</h1>
       </header>

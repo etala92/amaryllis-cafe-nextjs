@@ -1,5 +1,5 @@
 import PriceList, { type PriceListItems } from "@components/PriceList";
-import PriceListItem from "@components/PriceListItem";
+import groupList from "@data/categories.json";
 import priceListItems from "@data/pricelist.json";
 
 export default function Home({
@@ -7,17 +7,15 @@ export default function Home({
 }: {
   priceListItems: PriceListItems;
 }) {
-  const groupList = [
-    ...new Set(priceListItems.map((priceListItem) => priceListItem.itemGroup)),
-  ];
   return (
     <>
-      {groupList.map((groupName) => (
+      {groupList.map((group) => (
         <PriceList
-          key={groupName}
-          groupName={groupName}
+          key={group.name}
+          groupName={group.name}
+          groupImageUrl={group.image}
           priceListItems={priceListItems.filter(
-            (item) => item.itemGroup === groupName
+            (item) => item.itemGroup === group.name
           )}
         />
       ))}
