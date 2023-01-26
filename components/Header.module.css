@@ -45,5 +45,5 @@
 
 .container.minimized .title {
   /* padding: 0; */
-  transform: scale(0.7) translateX(-20dvw);
+  transform: scale(0.7) translateX(-20vw);
 }
