@@ -14,7 +14,15 @@ export default function Footer({ className }: Props) {
           <h5 className={styles.title}>
             Amaryllis Cafè di Delledonne Stefania
           </h5>
-          <p>Via Antonio Emmanueli, 23, 29121 Piacenza PC</p>
+          <p>
+            Via Antonio Emmanueli, 23, 29121 Piacenza PC
+            <br />
+            Iscritta alla Camera di Commercio di Piacenza
+            <br />
+            Partita Iva 12705860968
+            <br />
+            REA PC - 196800
+          </p>
           {/* Numero di partita IVA;
           Ufficio del registro delle imprese presso il quale è iscritta l’azienda;
           Numero di iscrizione REA. */}
